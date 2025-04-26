@@ -21,7 +21,6 @@
   <pre><code>My Motto: "Don't write code just for the sake, learn to be a problem solver."</code></pre>
 
 </div>
-https://www.linkedin.com/in/rayyanhuda/
 
 <div align="center">
   <h2>Languages</h2>
@@ -60,3 +59,15 @@ https://www.linkedin.com/in/rayyanhuda/
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </p>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayyanshuda/rayyanshuda/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayyanshuda/rayyanshuda/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/rayyanshuda/rayyanshuda/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
