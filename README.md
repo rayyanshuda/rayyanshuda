@@ -4,15 +4,15 @@
 </div>
 
 <div align="center">
-  <h2>Hi, I'm Rayyan Huda</h2>
+  <h1>Hi, I'm Rayyan Huda</h1>
 </div>
 
 
 <div align="center">
   <p>A Systems Design Engineering student at the University of Waterloo </p>
   <p>An XR and AI Enthusiast </p>
-  <p>Learning Full-Stack development, exploring Ai, and building web apps </p>
-  <p>I want to code with a purpose, blending creativity with code to build meaningful and cool projects </p>
+  <p>Learning Full-Stack development, exploring AI, and building web apps </p>
+  <p>I want to code with a purpose, blending creativity with code to build meaningful and cool projects! </p>
   
 </div>
 
