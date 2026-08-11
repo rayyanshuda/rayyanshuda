@@ -10,13 +10,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/rayyanshuda/rayyanshuda/blob/main/black-rh.png">
     <img alt="Rayyan Huda Logo" src="https://github.com/rayyanshuda/rayyanshuda/blob/main/black-rh.png" width="65">
   </picture>
-  <h1 style="margin-top: 15px; letter-spacing: 0.5px;">Rayyan Huda</h1>
+  <h1 style="margin-top: 15px; letter-spacing: 0.5px;">rayyan huda</h1>
 </div>
 
 <!-- Quick Taglines -->
 <div align="center">
-  <p>Systems Design Engineering at the University of Waterloo</p>
-  <p>Building machine learning and computer vision systems</p>
+  <p>systems design engineering at the university of waterloo</p>
+  <p>machine learning and computer vision systems</p>
   <br>
 </div>
 
@@ -58,7 +58,19 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 
-## My Contributions
+<div align="center">
+  <h2>Connect</h2>
+  <p>
+    <a href="mailto:rayyanshuda@gmail.com">rayyanshuda@gmail.com</a> | 
+    <a href="https://www.linkedin.com/in/rayyanhuda/" target="_blank">LinkedIn</a> | 
+    <a href="https://rayyanhuda.com/" target="_blank">Portfolio</a>
+  </p>
+</div>
+
+
+<div align="center">
+  <h2>contributions</h2>
+</div>
 
 <div align="center">
   <picture>
