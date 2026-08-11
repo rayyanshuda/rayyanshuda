@@ -2,20 +2,27 @@
   <img src="https://github.com/rayyanshuda/rayyanshuda/blob/main/github_profile.gif" alt="Banner of a developer sitting in front of a desk" width="700">
 </div>
 
+<!-- Clean Logo & Brand Header -->
 <div align="center">
-  <h1>Hi, I'm Rayyan Huda 😁</h1>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rayyanshuda/rayyanshuda/blob/main/white-rh.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rayyanshuda/rayyanshuda/blob/main/black-rh.png">
+    <img alt="Rayyan Huda Logo" src="https://github.com/rayyanshuda/rayyanshuda/blob/main/black-rh.png" width="65">
+  </picture>
+  <h1 style="margin-top: 15px; letter-spacing: 0.5px;">Rayyan Huda</h1>
+</div>
+
+<!-- Quick Taglines -->
+<div align="center">
+  <p>Systems Design Engineering at the University of Waterloo</p>
+  <p>Building machine learning and computer vision systems</p>
+  <br>
 </div>
 
 
 <div align="center">
-  <p>Systems Design Engineering at the University of Waterloo </p>
-  <p>Building Machine Learning and Computer Vision systems</p>
-  
-</div>
-
-
-<div align="center">
-  <h2>🧠 ML & Computer Vision</h2>
+  <h2>ML & Computer Vision</h2>
 </div>
 
 <p align="center"> 
@@ -28,7 +35,7 @@
 </p>
 
 <div align="center">
-  <h2>💻 Languages</h2>
+  <h2>Languages</h2>
 </div>
 
 <p align="center"> 
@@ -40,7 +47,7 @@
 </p>
 
 <div align="center">
-  <h2>🛠 Hardware & Developer Tools</h2>
+  <h2>Dev Tools</h2>
 </div>
 
 <p align="center"> 
@@ -51,7 +58,7 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 
-## 🐍 My Contributions
+## My Contributions
 
 <div align="center">
   <picture>
