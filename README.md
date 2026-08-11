@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <h2>ML & Computer Vision</h2>
+  <h2>ml & computer vision</h2>
 </div>
 
 <p align="center"> 
@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-  <h2>Languages</h2>
+  <h2>languages</h2>
 </div>
 
 <p align="center"> 
@@ -47,7 +47,7 @@
 </p>
 
 <div align="center">
-  <h2>Dev Tools</h2>
+  <h2>dev tools</h2>
 </div>
 
 <p align="center"> 
@@ -59,7 +59,7 @@
 </p>
 
 <div align="center">
-  <h2>Connect</h2>
+  <h2>connect</h2>
   <p>
     <a href="mailto:rayyanshuda@gmail.com">rayyanshuda@gmail.com</a> | 
     <a href="https://www.linkedin.com/in/rayyanhuda/" target="_blank">LinkedIn</a> | 
