@@ -17,9 +17,7 @@
 <div align="center">
   <p>systems design engineering at the university of waterloo</p>
   <p>machine learning and computer vision systems</p>
-  <br>
 </div>
-
 
 <div align="center">
   <h2>ml & computer vision</h2>
