@@ -16,7 +16,7 @@
 <!-- Quick Taglines -->
 <div align="center">
   <p>systems design engineering at the university of waterloo</p>
-  <p>machine learning and computer vision systems</p>
+  <p>ai agents, swe, ml, & cv</p>
 </div>
 
 <div align="center">
